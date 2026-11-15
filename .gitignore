@@ -1,0 +1,16 @@
+# Compiled output
+out/
+*.class
+
+# IDE / editor
+.vscode/
+.idea/
+*.iml
+
+# OS noise
+Thumbs.db
+.DS_Store
+
+# Local logs and temporary files
+*.log
+*.tmp
