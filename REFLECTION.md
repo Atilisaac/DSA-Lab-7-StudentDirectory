@@ -138,5 +138,4 @@ more trials.
 duplicate check and the insert are separate operations, so the class is only
 safe for the single-threaded console use it was designed for.
 
-**Student input:** Replace this with the limitation you consider most important,
-and explain the consequence in your own words.
+
